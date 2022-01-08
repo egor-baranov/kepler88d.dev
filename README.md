@@ -1,4 +1,4 @@
-# kepler88d.io
+# kepler88d.dev
 
 My personal website hosting at kepler88d.dev
 
