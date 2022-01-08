@@ -1,6 +1,6 @@
 # kepler88d.io
 
-My personal website hosting at kepler88d.io
+My personal website hosting at kepler88d.dev
 
 ## Getting Started
 
